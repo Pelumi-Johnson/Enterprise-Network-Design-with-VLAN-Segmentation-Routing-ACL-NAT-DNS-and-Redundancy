@@ -95,7 +95,7 @@ Observation
 - Finance traffic to IT blocked
 - IT traffic allowed across all VLANs
 
-Video Placeholder ACL Behavior
+ACL Behavior
 ![ACL Flow](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/ACL%201.gif)
 ![ACL Flow](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/ACL%202.gif)
 ![ACL Flow](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/ACL%203.gif)
@@ -110,7 +110,7 @@ Primary link removed
 Backup link activated automatically
 Traffic continued without disruption
 ```
-Video Placeholder Redundancy Failover
+Redundancy Failover
 ![Redundancy Failover](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/Redundancy.gif)
 
 ---
