@@ -1,4 +1,4 @@
-# Final Enterprise Network Simulation with VLANs Routing ACL NAT DNS and Redundancy
+# Enterprise Network Simulation with VLANs Routing ACL NAT DNS and Redundancy
 
 ## Overview
 Designed and validated a complete enterprise network simulation integrating VLAN segmentation inter VLAN routing ACL based traffic control NAT for external access DNS for name resolution and Layer 2 redundancy. Captured full packet flow behavior using simulation recordings to demonstrate how traffic moves across the network under normal and controlled conditions.
