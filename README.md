@@ -97,6 +97,7 @@ Observation
 
 Video Placeholder ACL Behavior
 ![ACL Flow](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/ACL%201.gif)
+![ACL Flow](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/ACL%202.gif)
 ![ACL Flow]()
 
 ---
