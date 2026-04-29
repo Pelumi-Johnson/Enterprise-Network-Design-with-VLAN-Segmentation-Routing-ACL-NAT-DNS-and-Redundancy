@@ -32,7 +32,7 @@ Logical Flow
 PC to Access Switch to Distribution Router to Edge Router to Server and back
 
 Full Topology and Packet Flow
-![Full Simulation](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/Animation.gif)
+![Full Simulation](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/Top.gif)
 
 ---
 
