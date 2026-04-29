@@ -102,18 +102,6 @@ Video Placeholder ACL Behavior
 
 ---
 
-### End to End Communication
-Recorded full packet traversal across VLAN routing NAT and external network
-```
-Observation
-Traffic successfully routed translated and delivered to server
-Return traffic correctly mapped back to originating host
-```
-Video Placeholder End to End Flow
-![End to End Flow](./videos/end-to-end.mp4)
-
----
-
 ### Redundancy Validation
 Simulated link failure between switches
 ```
@@ -123,7 +111,7 @@ Backup link activated automatically
 Traffic continued without disruption
 ```
 Video Placeholder Redundancy Failover
-![Redundancy Failover](./videos/redundancy.mp4)
+![Redundancy Failover](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/Redundancy.gif)
 
 ---
 
