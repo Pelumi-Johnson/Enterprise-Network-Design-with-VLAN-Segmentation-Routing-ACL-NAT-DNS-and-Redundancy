@@ -83,7 +83,7 @@ Server responds with resolved IP address
 Traffic continues toward destination
 ```
 Video Placeholder DNS Request Flow
-![DNS Flow](./videos/dns-request.mp4)
+![DNS Flow](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy/blob/main/Animation.gif)
 
 ---
 
